@@ -1,3 +1,65 @@
-.class-1 {
-  color: antiquewhite;
+body {
+  background-image: url(pictures/background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Gemunu Libre", sans-serif;
+}
+#title {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+  border: 5px solid goldenrod;
+  height: 20vh;
+  width: 98.5vw;
+  padding-top: 50px;
+  position: absolute;
+  top: 1px;
+}
+.string-pc {
+  color: green;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 15px;
+  margin-top: 400px;
+  border: 3px solid green;
+  width: 30vw;
+  background-color: lightblue;
+  padding: 100px 1px;
+}
+.dusty-pc {
+  color: green;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 15px;
+  margin-top: 300px;
+  border: 3px solid green;
+  width: 30vw;
+  background-color: lightblue;
+  padding: 100px 1px;
+}
+.cardboard-pc {
+  color: green;
+  font-size: 40px;
+  text-align: center;
+  margin-left: 15px;
+  margin-top: 300px;
+  border: 3px solid green;
+  width: 30vw;
+  background-color: lightblue;
+  padding: 100px 1px;
+}
+.string-img {
+  position: absolute;
+  top: 430px;
+  right: 70px;
+}
+.dusty-img {
+  position: absolute;
+  top: 1280px;
+  right: 70px;
+}
+.cardboard-img {
+  position: absolute;
+  top: 2170px;
+  right: 70px;
 }
